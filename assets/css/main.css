@@ -1698,6 +1698,12 @@
 		margin: 0 0 2em 0;
 	}
 
+
+.darkerblue {color: #31698A;}
+
+.darkerblue h2 {color: #31698A;}
+.darkerblue h3 {color: #31698A;}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: bold;
@@ -2323,7 +2329,7 @@
 		}
 
 	label {
-		color: #ffffff;
+		color: #31698A;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
@@ -3253,7 +3259,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #7DFED0;
 		}
 
 		.wrapper.style1-alt {
