@@ -65,7 +65,7 @@ h2 {
   margin: 0 auto;
   width: 24px;
   height: 24px;
-  background-color:#0000cd;
+  background-color: #0000cd;
   border: solid 2px #0000cd;
   border-radius: 8px;
   color: #999;
@@ -74,7 +74,7 @@ h2 {
   cursor: pointer;
 }
 .dif-options input:checked + label {
-  color:#00ffff;
+  color: #00ffff;
   background-color: #ec325b;
   border-color: #00ffff;
   cursor: default;
@@ -105,7 +105,7 @@ h2 {
   border: solid 2px #7cfc00;
   border-radius: 8px;
   background-color: #ec325b;
-  color: 	#7cfc00;
+  color: #7cfc00;
   cursor: pointer;
 }
 .start button:focus {
