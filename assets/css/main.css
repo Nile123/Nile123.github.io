@@ -2842,7 +2842,7 @@
 		}
 
 			ul.menu > li {
-				border-left: solid 1px #1007fd;
+				border-left: solid 1px rgba(255, 255, 255, 0.15);
 				display: inline-block;
 				line-height: 1;
 				margin-left: 1.5em;
